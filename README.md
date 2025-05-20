@@ -107,7 +107,7 @@ This project aims to develop a dynamic **HR Analytics Dashboard** to support dat
 - Conduct exit interviews  
 - Review manager effectiveness and workload balance
 
-### 2. Support for 26–35 Age Group
+### 2. Support for 25–36 Age Group
 - Create mentorship programs  
 - Provide clear career growth paths
 
@@ -133,7 +133,7 @@ This project aims to develop a dynamic **HR Analytics Dashboard** to support dat
 ---
 
 ## 📌 Conclusion
-The overall **attrition rate is 16.1%**, highest among **Sales employees** and those aged **26–35**. Factors like **low income**, **short tenure**, and **lack of rewards** contribute significantly. Targeted **retention strategies**, improved **engagement initiatives**, and **compensation reviews** are essential for reducing attrition. The **interactive dashboard** empowers HR teams to derive actionable insights and tailor interventions effectively.
+The overall **attrition rate is 16.1%**, highest among **Sales employees** and those aged **25–36**. Factors like **low income**, **short tenure**, and **lack of rewards** contribute significantly. Targeted **retention strategies**, improved **engagement initiatives**, and **compensation reviews** are essential for reducing attrition. The **interactive dashboard** empowers HR teams to derive actionable insights and tailor interventions effectively.
 
 ---
 
