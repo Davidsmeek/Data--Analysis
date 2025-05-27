@@ -13,7 +13,7 @@ This project aims to develop a dynamic **HR Analytics Dashboard** to support dat
 
 ## 📁 Data Source
 - **File**: `HR ANALYTICS.xlsx`  [download](https://github.com/user-attachments/files/20454088/HR.ANALYTICS.xlsx)
-- **PowerBI** `HR ANALYTICS.pbix` [download]
+- **PowerBI** `HR ANALYTICS.pbix` [download](https://github.com/Davidsmeek/Data--Analysis/blob/main/HR.pbix)
 
 - **Records**: 1,470 employee entries  
 - **Features**: Age, Gender, Department, Education, Monthly Income, Job Role, Attrition, etc.
