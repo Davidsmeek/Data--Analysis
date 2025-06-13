@@ -5,7 +5,7 @@ This project investigates how AI chatbots influence customer satisfaction during
 
 ## 📁 Data Source
 The data was collected through structured questionnaires distributed to 104 university students in Lagos, Nigeria. The questions targeted users’ experiences with AI chatbots in online shopping contexts.
-
+- **File**: `Questionaire Responses`  [The Role of AI chatbot](https://github.com/user-attachments/files/20726485/The.Role.of.AI.Chatbots.in.Influencing.the.Online.Customer.Experience.and.Satisfaction.1-104.xlsx)
 
 ## ⚒️ Tools
 - **Data Collection**: Structured Questionnaire (Likert scale: 1 to 5)  
