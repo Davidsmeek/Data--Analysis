@@ -1,18 +1,18 @@
 # AI Chatbot Usability, Responsiveness, and Reliability in Enhancing Online Customer Experience in Lagos, Nigeria
 
-## Project Overview
+## 📌 Project Overview
 This project investigates how AI chatbots influence customer satisfaction during online shopping experiences. It focuses on three primary chatbot attributes—usability, responsiveness, and reliability—and evaluates their relationships with customer satisfaction. The research data was obtained from students in Lagos, Nigeria, and analyzed using descriptive statistics, correlation, and regression analysis.
 
 ## Data Source
 The data was collected through structured questionnaires distributed to 104 university students in Lagos, Nigeria. The questions targeted users’ experiences with AI chatbots in online shopping contexts.
 
-## Tools
+## ⚒️ Tools
 - **Data Collection**: Structured Questionnaire (Likert scale: 1 to 5)  
 - **Analysis**: SPSS  
 - **Documentation**: Microsoft Word, GitHub  
 - **Visualization**: Embedded Charts & Tables (SPSS-generated)
 
-## Data Cleaning/Preparation
+## 🧹 Data Cleaning/Preparation
 - Filtered valid responses (n = 104)  
 - Encoded responses numerically for Likert scale analysis  
 - Grouped and tabulated demographics (gender, age, education level)  
@@ -20,7 +20,7 @@ The data was collected through structured questionnaires distributed to 104 univ
 - Calculated mean responses for descriptive interpretation  
 - Prepared variables for correlation and regression analyses
 
-## Exploratory Data Analysis (EDA)
+## 📊 Exploratory Data Analysis (EDA)
 ### Demographics
 - **Gender**: 51% Female, 49% Male
  ![image](https://github.com/user-attachments/assets/dcfcaaaf-731a-4562-8ca2-26acf904683d) 
