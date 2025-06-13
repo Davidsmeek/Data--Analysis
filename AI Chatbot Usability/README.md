@@ -113,3 +113,7 @@ The data was collected through structured questionnaires distributed to 104 univ
 - **Scope**: Focused solely on online shoppers in Lagos; may differ by region or industry  
 - **Technology Bias**: Perception-based data may not reflect actual chatbot performance  
 - **No Longitudinal Data**: One-time responses limit insights into evolving user experiences
+
+  ---
+
+> 📬 *Feel free to reach out if you’d like help with your Academic Research Analysis!*
