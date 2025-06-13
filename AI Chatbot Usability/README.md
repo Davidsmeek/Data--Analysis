@@ -3,8 +3,9 @@
 ## 📌 Project Overview
 This project investigates how AI chatbots influence customer satisfaction during online shopping experiences. It focuses on three primary chatbot attributes—usability, responsiveness, and reliability—and evaluates their relationships with customer satisfaction. The research data was obtained from students in Lagos, Nigeria, and analyzed using descriptive statistics, correlation, and regression analysis.
 
-## Data Source
+## 📁 Data Source
 The data was collected through structured questionnaires distributed to 104 university students in Lagos, Nigeria. The questions targeted users’ experiences with AI chatbots in online shopping contexts.
+
 
 ## ⚒️ Tools
 - **Data Collection**: Structured Questionnaire (Likert scale: 1 to 5)  
@@ -32,12 +33,12 @@ The data was collected through structured questionnaires distributed to 104 univ
 ![image](https://github.com/user-attachments/assets/d0c995a6-8331-4b14-a5bf-92f0b54321b5)
 
 
-### Initial Observations
+### 💡 Initial Observations
 - Over 80% of respondents agreed that AI chatbots were easy to use  
 - Mean values for usability, responsiveness, and reliability ranged between 3.85 to 4.15, indicating general satisfaction  
 - Customers appreciated timely responses and problem-solving abilities of chatbots
 
-## Data Analysis
+## 📈 Data Analysis
 
 ### Descriptive Statistics
 - Mean chatbot usability: **4.04**
@@ -100,14 +101,14 @@ The data was collected through structured questionnaires distributed to 104 univ
 - Regression analysis confirmed that chatbot attributes significantly predict customer satisfaction  
 - Personalization was less important to users than efficiency and reliability  
 
-## Recommendations
+## ✅ Recommendations
 1. **Optimize Responsiveness**: Ensure real-time replies to enhance satisfaction  
 2. **Simplify Usability**: Maintain a user-friendly interface  
 3. **Boost Reliability**: Implement fallback solutions to reduce failures  
 4. **Improve Connectivity**: Design bots that tolerate low-bandwidth environments  
 5. **Customer Education**: Provide onboarding or tips on using chatbots effectively
 
-## Limitations
+## ⚠️ Limitations
 - **Sample Size**: Limited to 104 students; may not generalize to all demographics  
 - **Scope**: Focused solely on online shoppers in Lagos; may differ by region or industry  
 - **Technology Bias**: Perception-based data may not reflect actual chatbot performance  
