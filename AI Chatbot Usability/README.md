@@ -94,7 +94,7 @@ The data was collected through structured questionnaires distributed to 104 univ
 - β = 0.723, p < 0.001  
 - Interpretation: 47.4% of the variance in satisfaction can be explained by chatbot reliability  
 
-## Results/Findings
+## 🔍 Results/Findings
 - Majority of respondents rated chatbot interaction as positive  
 - Responsiveness had the strongest correlation with satisfaction (r = 0.730)  
 - Usability and reliability were also moderately correlated with satisfaction  
